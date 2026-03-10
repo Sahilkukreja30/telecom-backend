@@ -12,8 +12,6 @@ openpyxl==3.1.5
 
 # OCR / Vision
 easyocr==1.7.2
-torch==2.8.0
-torchvision==0.23.0
 scikit-image==0.25.2
 
 # Data handling
